@@ -1,0 +1,2 @@
+# luxorgo
+Luxor játék bódorgóknak
